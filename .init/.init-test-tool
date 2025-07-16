@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/app-generation-metrics-dashboard-8fd0f575/kavia_metrics_backend"
+}
